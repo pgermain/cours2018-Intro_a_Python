@@ -27,7 +27,7 @@ Démarrer Jupyter pour commencer:
 Une manière plus conventionelle de programmer en python est d'écrire son code dans un (ou plusieurs) fichier(s) texte(s) et de l'exécuter ensuite à l'aide de l'interpréteur python. Il existe plusieurs environnement de développement pour vous assister dans cette tâche. Par exemple:
 
 * Visual Studio Code: https://code.visualstudio.com/
-* PyCarm https://www.jetbrains.com/pycharm/
+* PyCharm https://www.jetbrains.com/pycharm/
 
 
 
